@@ -1,4 +1,4 @@
-# FastVidl
+## FastVidl
 
 FastVidl is a free browser-based tool for downloading public Instagram Reels, Facebook videos, and Pinterest videos in HD without login or watermark.
 
@@ -24,7 +24,7 @@ browser-tool
 
 social-media-tools
 
-![FastVidl screenshot]
+## FastVidl screenshot
 https://prnt.sc/ao0M-MAkl84L
 
 ## Usage
