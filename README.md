@@ -25,3 +25,10 @@ browser-tool
 social-media-tools
 
 web-tool
+
+![FastVidl screenshot](images/fastvidl-screenshot.png)
+
+## Usage
+1. Copy the Instagram, Facebook, or Pinterest link.
+2. Paste it into FastVidl.
+3. Click download and save the file.
