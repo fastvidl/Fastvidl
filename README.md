@@ -11,7 +11,7 @@ FastVidl is a free browser-based tool for downloading public Instagram Reels, Fa
 ## Website
 https://fastvidl.com
 
-## topics 
+## Topics 
 instagram-downloader
 
 facebook-downloader
