@@ -24,9 +24,7 @@ browser-tool
 
 social-media-tools
 
-web-tool
-
-![FastVidl screenshot](images/fastvidl-screenshot.png)
+https://prnt.sc/ao0M-MAkl84L
 
 ## Usage
 1. Copy the Instagram, Facebook, or Pinterest link.
