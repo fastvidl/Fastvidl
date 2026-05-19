@@ -31,3 +31,5 @@ https://prnt.sc/ao0M-MAkl84L
 1. Copy the Instagram, Facebook, or Pinterest link.
 2. Paste it into FastVidl.
 3. Click download and save the file.
+
+https://about.me/fastvidl
